@@ -1,0 +1,16 @@
+# Akuma's DNA+
+# Map the REAL AGOT character ID on the left to our dummy character on the right.
+# AGOT character IDs MUST retain their original names; they are external keys, not Akuma's keys.
+
+akumas_apply_dna_effect = {
+    if = {
+        limit = {
+            has_game_rule = akumas_dna_rule_on
+        }
+
+        # Example:
+        # character:Targaryen_3 ?= {
+        #     copy_inheritable_appearance_from = character:akumas_rhaegar_targaryen
+        # }
+    }
+}

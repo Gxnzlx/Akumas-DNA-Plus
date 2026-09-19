@@ -1,0 +1,6 @@
+﻿l_german:
+ akumas_dna_rule:0 "Akuma's DNA+"
+ akumas_dna_rule_on:0 "Aktiviert"
+ akumas_dna_rule_on_desc:0 "Verwendet die Charakter-DNA-Ersetzungen aus Akuma's DNA+."
+ akumas_dna_rule_off:0 "Deaktiviert"
+ akumas_dna_rule_off_desc:0 "Wendet die Charakter-DNA-Ersetzungen aus Akuma's DNA+ nicht an."

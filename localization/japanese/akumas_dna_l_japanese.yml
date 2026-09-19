@@ -1,0 +1,6 @@
+﻿l_japanese:
+ akumas_dna_rule:0 "Akuma's DNA+"
+ akumas_dna_rule_on:0 "有効"
+ akumas_dna_rule_on_desc:0 "Akuma's DNA+のキャラクターDNA置換を使用します。"
+ akumas_dna_rule_off:0 "無効"
+ akumas_dna_rule_off_desc:0 "Akuma's DNA+のキャラクターDNA置換を適用しません。"

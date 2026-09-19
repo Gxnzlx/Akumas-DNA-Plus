@@ -1,0 +1,6 @@
+﻿l_simp_chinese:
+ akumas_dna_rule:0 "Akuma's DNA+"
+ akumas_dna_rule_on:0 "启用"
+ akumas_dna_rule_on_desc:0 "使用 Akuma's DNA+ 中的角色 DNA 替换。"
+ akumas_dna_rule_off:0 "禁用"
+ akumas_dna_rule_off_desc:0 "不应用 Akuma's DNA+ 中的角色 DNA 替换。"

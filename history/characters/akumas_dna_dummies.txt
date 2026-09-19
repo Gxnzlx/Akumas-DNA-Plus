@@ -1,0 +1,25 @@
+# Akuma's DNA+
+# Dummy characters hold our custom DNA so it can be copied to AGOT historical characters.
+# Create ONE dummy for each DNA entry in common/dna_data/akumas_dna_data.txt.
+#
+# Example:
+# akumas_rhaegar_targaryen = {
+#     name = AkumasDNA
+#     dna = akumas_rhaegar_targaryen
+#     dynasty = dynn_Dummies
+#
+#     religion = old_gods_wnw
+#     culture = skagosi
+#     disallow_random_traits = yes
+#
+#     # AGOT anchor used by the reference implementation to keep dummy characters available.
+#     father = Ruin_Empress
+#
+#     16.1.2 = {
+#         birth = yes
+#         effect = { make_unprunable = yes }
+#     }
+#     16.1.3 = {
+#         death = { death_reason = death_ill }
+#     }
+# }

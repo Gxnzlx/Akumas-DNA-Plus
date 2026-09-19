@@ -1,0 +1,6 @@
+﻿l_russian:
+ akumas_dna_rule:0 "Akuma's DNA+"
+ akumas_dna_rule_on:0 "Включено"
+ akumas_dna_rule_on_desc:0 "Использовать замену ДНК персонажей из Akuma's DNA+."
+ akumas_dna_rule_off:0 "Отключено"
+ akumas_dna_rule_off_desc:0 "Не применять замену ДНК персонажей из Akuma's DNA+."

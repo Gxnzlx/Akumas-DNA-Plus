@@ -1,0 +1,11 @@
+# Akuma's DNA+
+
+akumas_dna_rule = {
+    default = akumas_dna_rule_on
+
+    akumas_dna_rule_off = {
+    }
+
+    akumas_dna_rule_on = {
+    }
+}

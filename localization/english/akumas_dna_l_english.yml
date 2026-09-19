@@ -1,0 +1,6 @@
+﻿l_english:
+ akumas_dna_rule:0 "Akuma's DNA+"
+ akumas_dna_rule_on:0 "Enabled"
+ akumas_dna_rule_on_desc:0 "Use the character DNA replacements from Akuma's DNA+."
+ akumas_dna_rule_off:0 "Disabled"
+ akumas_dna_rule_off_desc:0 "Do not apply the character DNA replacements from Akuma's DNA+."

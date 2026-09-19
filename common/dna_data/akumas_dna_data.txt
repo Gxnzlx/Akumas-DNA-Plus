@@ -1,0 +1,13 @@
+# Akuma's DNA+
+# Add each DNA block here.
+# Every custom DNA key must begin with akumas_.
+#
+# Example:
+# akumas_rhaegar_targaryen = {
+#     portrait_info = {
+#         genes = {
+#             # Paste the character's genes here.
+#         }
+#     }
+#     enabled = yes
+# }

@@ -1,0 +1,14 @@
+# Akuma's DNA+
+# Apply our DNA replacements when a game starts.
+
+on_game_start = {
+    on_actions = {
+        akumas_apply_dna_on_action
+    }
+}
+
+akumas_apply_dna_on_action = {
+    effect = {
+        akumas_apply_dna_effect = yes
+    }
+}
