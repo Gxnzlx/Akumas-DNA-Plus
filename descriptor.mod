@@ -1,6 +1,6 @@
 version="1.0.0"
 tags={
-    "Portraits"
+	"Portraits"
 }
 name="Akuma's DNA+"
 picture="thumbnail.png"
